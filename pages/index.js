@@ -38,14 +38,14 @@ export default function HomePage() {
   const teamMembers = [
     {
       id: 1,
-      name: "Ankita Avadhani",
+      name: "Rani Patel",
       position: "CEO & Co-Founder",
       bio: "Extensive experience working at multiple law firms with deep expertise in legal operations and practice management.",
       image: "/team/ankita.jpg"
     },
     {
       id: 2,
-      name: "Jeremy Fu",
+      name: "Rahul Gupta",
       position: "CPO & Co-Founder",
       bio: "Key engineering expertise with background in developing innovative solutions for the legal industry.",
       image: "/team/jeremy.jpg"
